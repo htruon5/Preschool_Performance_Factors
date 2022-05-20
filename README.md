@@ -1,1 +1,2 @@
 # Preschool_Performance_Factors
+In this project, my partner and I used linear regression techniques to examine several factors that affect school performance among preschool-age children in the state of Massachusetts, USA. The main data source comes from the Department of Education of MA. We concluded that several variables such as parents' income and time spent in school correlate positively with performance individually through running T-Tests, but collectively the variables do not show significance from running a F-Test. 
